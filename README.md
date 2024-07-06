@@ -1,2 +1,3 @@
 # Supermarket
-A simple application for a supermarket management system using object oriented programming concepts in C++.
+A comprehensive management system for a supermarket employee which takes advantage of advanced object-oriented programming concepts to implement simple and complex functionalities.
+
